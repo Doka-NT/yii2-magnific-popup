@@ -1,7 +1,6 @@
 {
     "name": "skobka/yii2-magnific-popup",
     "description": "JQuery magnific popup widget",
-    "version": "dev-master",
     "keywords": [
         "yii",
         "yii2",
