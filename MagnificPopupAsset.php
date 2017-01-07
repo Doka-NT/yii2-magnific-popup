@@ -4,7 +4,7 @@ namespace porcelanosa\magnificPopup;
 
 class MagnificPopupAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@vendor/porcelanosa/yii2-magnific-popup/assets';
+    public $sourcePath = __DIR__ . '/assets';
     
     public $js = [
         'js/jquery.magnific-popup.js',
